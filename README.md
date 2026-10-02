@@ -56,4 +56,4 @@ Official repository for **Team Crashless**. An autonomous driving architecture d
 ### Execution Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Team-Crashless-Autonomous-V2X.git](https://github.com/YOUR_USERNAME/Team-Crashless-Autonomous-V2X.git)
+   git clone [https://github.com/ashikarathore5/Team-Crashless-Autonomous-V2X.git](https://github.com/ashikarathore5/Team-Crashless-Autonomous-V2X.git)
